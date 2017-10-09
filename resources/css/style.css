@@ -1,0 +1,39 @@
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+.image {
+  background-image: url("../images/building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+font-size: 70px;
+font-weight: bold;
+color: white;
+}
+nav.top a {
+  font-size: 18px;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3.process-title {
+  font-size: 23px;
+  font-weight: bold;
+}
+p.font{
+  font-size: 14px;
+}
+#page-break {
+  background-image: url("../images/building.png");
+}
+.bottom  {
+  background-color: dimgray;
+  text-align: left;
+}
+.bottom a{
+  color: white;
+}
